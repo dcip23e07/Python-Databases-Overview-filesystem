@@ -29,7 +29,7 @@ Welcome to DCI tutorials for file create and read
 
 ### Exercise 03: How to create and store json object to a file
 
-- Create a variable called `student_data` which which hold a dictionary with a name and role like this: `student_data = { "name": "Arif", "role": "teacher" }`
+- Create a variable called `student_data` which will hold a dictionary with a name and role like this: `student_data = { "name": "Arif", "role": "teacher" }`
 - Convert this dictionary to a JSON string using the `dumps()` method from the `json` module.
 - Save the output in to a JSON file (with an extension: `example.json`).
 
@@ -40,13 +40,13 @@ Welcome to DCI tutorials for file create and read
 - Open the existing json data file in the read mode (`r`).
 - Print the data to the screen.
 
-- Your result may be look like that:
+- Your result may be look like the result below:
 
 ```
 {"name": "arif", "role": "teacher"}
 ```
 
-### Dependencies for Exercises 5 and 6.
+### Dependencies for The Next Exercise.
 
 Please install the dependecies for some of the utility functions to run
 
